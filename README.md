@@ -48,27 +48,10 @@ Sou estudante e desenvolvedor, com experiência em Python, Java e C. Busco oport
 
 ---
 
-## 📈 Estatísticas GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mig-2505&show_icons=true&theme=github_dark" alt="Estatísticas do GitHub de Miguel"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mig-2505&layout=compact&theme=github_dark" alt="Linguagens mais usadas"/>
-</div>
-
----
-
 ## 🤝 Vamos conversar?
 
 - [LinkedIn](https://www.linkedin.com/in/miguel-vanucci-b3995b374/)
 - [E-mail](mailto:miguelvanucci.ti@gmail.com)
+- Telefone: (11) 96198-3134
 
----
-
-## 🐍 Animando seus commits!
-
-![Snake animation](https://github.com/mig-2505/mig-2505/blob/output/github-contribution-grid-snake.svg)
-
-```markdown
-![Snake animation](https://github.com/mig-2505/mig-2505/blob/output/github-contribution-grid-snake.svg)
-```
 ---
